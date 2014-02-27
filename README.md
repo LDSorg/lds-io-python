@@ -1,4 +1,4 @@
 lds-connect-python
 ==================
 
-Connecting with lds.org through oauth2 using Python
+Connect with lds.org through oauth2 using Python
